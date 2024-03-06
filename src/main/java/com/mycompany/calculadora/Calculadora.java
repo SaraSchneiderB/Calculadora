@@ -3,7 +3,6 @@
 mostrando o resultado final
 */
 
-
 package com.mycompany.calculadora;
 import java.util.Scanner;
 
@@ -11,10 +10,7 @@ public class Calculadora {
 
     public static void main(String[] args) {
       
-        
         Scanner teclado = new Scanner(System.in);
-        
-        
         
         //SOMA
         
@@ -27,8 +23,7 @@ public class Calculadora {
         System.out.println(result);
          
         
-        
-        
+       
        
        /* 
         SUBTRAÇÃO
@@ -40,10 +35,7 @@ public class Calculadora {
        
         System.out.println("O resultado da subtração é: ");
         System.out.println(result);
-        
-        */
-        
-        /*
+     
         
         DIVISÃO
         
@@ -55,10 +47,6 @@ public class Calculadora {
         System.out.println("O resultado da divisão é: ");
         System.out.println(result);
         
-        */
-        
-        
-        /*
 
         MULTIPLICAÇÃO
         
