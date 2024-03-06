@@ -16,7 +16,7 @@ public class Calculadora {
         
         
         
-        SOMA
+        //SOMA
         
         System.out.println("Digite primeiro número e segundo número para soma");
         double num1 = teclado.nextDouble();
@@ -25,7 +25,7 @@ public class Calculadora {
        
         System.out.println("O resultado da soma é: ");
         System.out.println(result);
-        */ 
+         
         
         
         
